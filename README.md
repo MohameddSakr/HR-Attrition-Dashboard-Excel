@@ -1,12 +1,15 @@
-# HR-Employee-Attrition-Dashboard
-<img width="853" height="433" alt="HR- Dashboard" src="https://github.com/user-attachments/assets/efbbdff7-a5e7-48ab-b26a-a869c19d6d59" />
+# HR Employee Attrition Dashboard
 
+📊 An interactive **Excel dashboard** analyzing employee attrition to uncover patterns and insights about workforce resignations.  
+
+<img width="853" height="433" alt="HR- Dashboard" src="https://github.com/user-attachments/assets/92672452-5a03-48fa-9c99-9784b8906129" />
+
+
+---
 
 ## 🔎 Project Overview
 This project focuses on **HR Analytics**, specifically employee attrition.  
-The dashboard highlights key metrics such as attrition rates, department-wise distribution, job satisfaction, overtime, distance from work, and more.  
-
-The goal was to transform raw HR data into **clear and actionable insights** for better decision-making.  
+Built entirely in **Microsoft Excel**, the dashboard highlights key metrics such as attrition rates, department-wise distribution, job satisfaction, overtime, and distance from work.  
 
 ---
 
@@ -19,11 +22,9 @@ The goal was to transform raw HR data into **clear and actionable insights** for
    - **Data Mapping**: Converted numeric values (e.g., education levels) into descriptive labels.  
    - **Binning/Grouping**: Classified distance from work into levels.  
    - **Categorization**: Grouped years of experience into career stages.  
-   - Removed inconsistencies and handled missing values.  
 
 3. **Data Analysis**  
    - Built **Pivot Tables** to summarize employee data by department, job role, education field, etc.  
-   - Applied calculations for attrition percentage and averages.  
 
 4. **Data Visualization**  
    - Designed **Pivot Charts** for interactive visuals.  
@@ -43,7 +44,8 @@ The goal was to transform raw HR data into **clear and actionable insights** for
 - **Microsoft Excel**  
 - **Power Query**  
 - **Pivot Tables & Pivot Charts**  
-- **Slicers** for interactivity  
+- **Slicers** 
 
 ---
+
 
